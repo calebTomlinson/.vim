@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/ctomlinson/ot/mongo_test/config/environments'
+let g:netrw_dirhist_2='/Users/ctomlinson/ot/mongo_test/spec/integration'
+let g:netrw_dirhist_3='/Users/ctomlinson/src/jira-cucumber/spec/formatter'
+let g:netrw_dirhist_4='/Users/ctomlinson/src/jira-cucumber/.git'
+let g:netrw_dirhist_5='/Users/ctomlinson/ot/puppet-module-experimenation/VagrantConf/modules'
+let g:netrw_dirhist_6='/Users/ctomlinson/ot/puppet-module-experimenation/VagrantConf/manifests'
+let g:netrw_dirhist_7='/Users/ctomlinson/ot/puppet-module-experimenation/VagrantConf'
